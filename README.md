@@ -33,7 +33,7 @@ project/
 ├── reporting.py  
 ├── mtf.py  
 ├── indicators.py  
-├── saiyan\_logic.py (or strategy\_logic.py)  
+├── logic.py ( the only one you will need to change when you wanted to test another staretgy _logic.py)  
 │  
 ├── data\_cache/  
 ├── reports/
